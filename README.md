@@ -1,4 +1,4 @@
-## Oi! Meu nome é Júnior e eu tento ganhar a vida escrevendo códigos. ¯\_(ツ)_/¯
+## Oi! Meu nome é Júnior e eu tento ganhar a vida escrevendo códigos.  ¯\_(ツ)_/¯
 
 <div align="center">
   <a href="https://github.com/n3xtzera">
